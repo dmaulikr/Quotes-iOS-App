@@ -1,0 +1,6 @@
+framework module Pods_FunFacts {
+  umbrella header "Pods-FunFacts-umbrella.h"
+
+  export *
+  module * { export * }
+}
