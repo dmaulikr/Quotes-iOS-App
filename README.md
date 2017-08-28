@@ -4,4 +4,4 @@ Resources used
 3. UISwipeGestureRecognizer: Swipe gestures for next & previous quote
 4. Activity Indicator: Serves as a buffer for ancryonous loading from Firebase
 5. SD-Image: Library allows ancryonous image loading from Firebase
-6. Google AdMob: In case I go broke
+6. Google AdMob: 
