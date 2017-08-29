@@ -1,6 +1,6 @@
-# Blaster
+# Quotes App
 
-![Unity Version](https://img.shields.io/badge/Unity-5.5.0-brightgreen.svg) [![License: MIT License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
+[![Language: Swift 4.0](https://img.shields.io/badge/swift-4.0-orange.svg?style=flat)](https://developer.apple.com/swift)]
 
 
 **Blaster** is an AR shooter game built with Unity and Vuforia.
