@@ -18,13 +18,7 @@
 ## Credits
 - [Firebase](https://firebase.google.com)
 
-
-
-
-
-
-
-Resources used
+## Resources used
 1. AVSpeechSynthesizer: Reads quote/fact out loud
 2. applicationActivities: Share button to share fact/quote
 3. UISwipeGestureRecognizer: Swipe gestures for next & previous quote
